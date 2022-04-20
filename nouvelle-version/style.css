@@ -510,6 +510,10 @@ button {
     box-shadow: none;
 }
 
+.form-control:focus{
+    color:#c27956;
+}
+
 .scrollToTop {
     width: 40px;
     height: 40px;
