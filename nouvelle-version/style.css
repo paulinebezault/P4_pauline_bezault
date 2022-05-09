@@ -273,7 +273,9 @@ blockquote{
 .voffset-lg {
     margin-top: 80px;
 }
-
+.row{
+    width:100%;
+}
 .row-no-gutters {
     margin-right: 0;
     margin-left: 0;
